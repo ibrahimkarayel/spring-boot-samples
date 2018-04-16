@@ -1,4 +1,4 @@
-package jowl.enums;
+package tr.com.jowl.enums;
 
 public enum DBOperation {
 	SAVE,

@@ -3,7 +3,7 @@ package tr.com.jowl.model;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "image")
+@Table(name = "image" , schema = "JOWL")
 public class Image {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)

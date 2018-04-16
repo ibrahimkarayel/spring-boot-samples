@@ -1,4 +1,4 @@
-package jowl.datatypes;
+package tr.com.jowl.datatypes;
 
 import java.io.Serializable;
 
